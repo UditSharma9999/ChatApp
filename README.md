@@ -1,3 +1,3 @@
 # myapp
 
-minor Project for AIT with flutter 2
+minor Project (Chatapp) for AIT with flutter 2
